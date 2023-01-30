@@ -8,6 +8,7 @@ git congig --global user.name  Javohir
 
 1. Check git (dowload from)
 2. initialize git repository
+
 ```
 git init
 ```
